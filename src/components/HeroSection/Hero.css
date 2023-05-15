@@ -1,0 +1,113 @@
+.hero-section{
+    padding: 4% 3% 3% 4%;
+}
+
+.side-left{
+    position: absolute;
+    top: -44%;
+    left: 17px;
+    height: fit-content;
+}
+.side-right{
+    position: absolute;
+    top: -44%;
+    right: 17px;
+    height: fit-content;
+}
+.hero-img-1 img{
+    height: max-content;
+    width: 100%;
+}
+
+
+.hero-img-2{
+    height: 153px;
+}
+.hero-para{
+    padding-top: 25%;
+    text-align: end;
+    font-size: 14px;
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 13px;
+}
+.connect-section{
+    align-items: center;
+    padding: 2% 1% 2% 1%;
+  
+}
+
+.connect-section .container{
+    background-image: url(../../images/comu.png);
+ 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 13%;
+    padding-bottom: 10%;
+
+}
+.connect-head h2{
+    font-size: 25px;
+}
+.connect-head{
+    text-align: start;
+    padding-top: 6%;
+    padding-right: 30%;
+}
+.connect-img img{
+    height: 150px;
+
+}
+.social-connect ul li{
+ 
+    text-align: center;
+
+    font-size: 28px;
+    padding: 2px 20px 1px 16px;
+
+
+}
+
+.social-connect ul{
+    padding-left: 0px !important;
+    margin: 0px !important;
+    margin-block-start:0px !important;
+
+    padding-right: 30%;
+}
+.hero-top-h{
+    font-size: 1.8rem;
+    font-family: 'Poppins';
+    font-weight: bold;
+
+}
+.hero-top-p{
+    font-size: 13px;
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+}
+.hero-top-s1{
+    font-style: italic;
+    font-weight: 300;
+    font-size: 15px;
+    color: #9f9f9f;
+}
+.hero-top-s2{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    color: #686868;
+}
+@media (max-width:768px) {
+    .side-left{
+      display: none;
+    }
+    .side-right{
+        display: none;
+    }
+    
+}

@@ -1,0 +1,128 @@
+.about-box{
+    
+
+}
+.about-sub p{
+    padding-top: 9%;
+    padding-right: 5%;
+    font-size: 15px;
+}
+.about-sub h1{
+    padding-bottom: 5%;
+}
+.sub-about-box{
+    margin: 25px;
+    background: linear-gradient(180deg, #181818 0%, #111111 100%);
+    border-radius: 40px;
+    box-shadow: 1px 2px 37px 8px rgb(212 169 30 / 89%);
+}
+.sub-about-box img{
+    height: 410px;
+    padding: 1%;
+}
+
+.p-1{
+    position: relative;
+    top: 153px;
+    left: 62px;
+    font-size: 11px;
+}
+.p-2{
+    position: relative;
+    font-size: 11px;
+    left: 74px;
+    top: 29px;
+}
+.p-3{
+    position: relative;
+    top: -122px;
+    left: 70px;
+    max-width: 31% !important;
+}
+.p-4{
+    position: relative;
+    left: 163px;
+    top: -81px;
+
+}
+.sub-about-box p{
+    font-size: 11px;
+    max-width: 36%;
+}
+
+.right-border{
+    border-right: 4px solid yellow;
+}
+.m-1 p{
+    padding-right: 10%;
+    padding-top: 5%;
+    font-size: 12px;
+
+}
+.m-1 h2{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 111%;
+    color: #FFFFFF;
+}
+.mission{
+    padding-top: 8%;
+    padding-bottom: 5%;
+}
+
+.about-img-1{
+    height: 75px;
+}
+@media (max-width:768px) {
+    .m-1 h2{
+        
+        font-size: 18px;
+    
+    }
+    .about-img-1{
+        height: 35px;
+    }
+    .sub-about-box p {
+        font-size: 11px;
+        max-width: 48%;
+    }
+    .p-1 {
+       
+        top: 126px;
+        left: 21px;
+        
+    }
+    .p-2{
+        left: -3px;
+    }
+    .p-3 {
+   
+        top: -109px;
+        left: -7px;
+        max-width: 44% !important;
+    }
+    .p-4 {
+        position: relative;
+        left: 48px;
+        top: -116px;
+    }
+    .sub-about-box img {
+        height: 271px;
+        
+      }   
+      
+      .about-sub p{
+        font-size: 12px;
+      }
+      .right-border {
+        border-right: none;
+        border-bottom: 4px solid yellow;
+        text-align: center;
+    }
+
+    .mob-1{
+        text-align: center;
+    }
+}
