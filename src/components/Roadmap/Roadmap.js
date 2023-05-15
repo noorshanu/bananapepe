@@ -34,11 +34,11 @@ function Roadmap() {
             </div>
 
             <div className='col-md-6'>
-            <img  src={Road3} alt="road" className='road-img-2'/>
+            <img  src={Road4} alt="road" className='road-img-2'/>
             </div>
 
             <div className='col-md-6'>
-            <img  src={Road3} alt="road" className='road-img-2'/>
+            <img  src={Road5} alt="road" className='road-img-2'/>
             </div>
 
 
