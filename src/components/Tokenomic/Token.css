@@ -1,5 +1,5 @@
 .token{
-    background: linear-gradient(180deg, #FDDC6E 0%, #D4A91E 100%);
+    background: linear-gradient(180deg, #ffdb59 0%, #ff944d 100%);
 }
 .head-toko{
     text-align: center;
@@ -74,6 +74,14 @@ text-transform: capitalize;
     padding-bottom: 6%;
 
 }
+.toko-img-1{
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+.toko-img-2{
+    display: none;
+}
 @media (max-width:768px) {
     .head-toko h1{
         font-size: 45px;
@@ -87,8 +95,10 @@ text-transform: capitalize;
     .img-2{
         position: unset;
     }
-    
-}
-.toko-img-1{
-    width: 72%;
+    .toko-img-1{
+        display: none;
+    }
+    .toko-img-2{
+        display: block;
+    }
 }

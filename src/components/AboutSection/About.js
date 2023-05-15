@@ -11,7 +11,7 @@ function About() {
                 <div className='col-md-6'>
                 <div className='about-sub'>
                     <span>
-                    What is 
+                    What is BananaPepe
                     </span> <br/>
                     <h1> <img src={Logo} alt="" className='about-img-1' /><span>?</span></h1>     
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
