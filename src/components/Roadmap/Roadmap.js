@@ -23,6 +23,13 @@ function Roadmap() {
           <div className='row items-align-center justify-content-center'>
             <div className='col-md-4 position-relative'>
             <img  src={Road} alt="road" className='road-img-1'/>
+            <div className='road-content'>
+              <h1>Q2 2023</h1>
+              <p>Launch the meme coin on a major cryptocurrency exchange.</p>
+              <p>Create a strong community around the meme coin.</p>
+              <p>Launch a marketing campaign to promote the meme coin</p>
+
+            </div>
 
             </div>
             <div className='col-md-4'>
