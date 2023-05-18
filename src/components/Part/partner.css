@@ -1,6 +1,6 @@
 .partner{
     padding-top: 5%;
-    padding-bottom: 15%;
+    padding-bottom: 5%;
 
 }
 .partner-head{
@@ -16,10 +16,12 @@
 .partner .container .row {
     padding-bottom: 5%;
 }
-
-@media (max-width:768px) {
-    .mob-img img{
-        height: 142px;
-        padding-bottom: 5%;
-    }
+.part{
+    padding: 4%;
 }
+.part-img{
+    width: auto;
+    height: 100%;
+    margin: 0 1rem;
+}
+
