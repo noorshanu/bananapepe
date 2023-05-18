@@ -35,7 +35,7 @@
 }
 .p-3{
     position: relative;
-    top: -122px;
+    top: -137px;
     left: 70px;
     max-width: 31% !important;
 }
@@ -52,6 +52,7 @@
 
 .right-border{
     border-right: 4px solid yellow;
+    height: 100%;
 }
 .m-1 p{
     padding-right: 10%;
