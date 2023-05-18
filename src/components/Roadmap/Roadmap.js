@@ -36,7 +36,7 @@ function Roadmap() {
                 <div className="road-content">
                   <h1>Q3 2023</h1>
                   <p>
-                  Partner with businesses to accept the meme coin as payment.
+                   Partner with businesses to accept the memecoin as payment.
                   </p>
                   <p>Launch a decentralized application (dApp) that uses the meme coin.</p>
                 
@@ -51,32 +51,32 @@ function Roadmap() {
                   <p>
                   Launch a meme coin-based game.
                   </p>
-                  <p>Create a strong community around the meme coin.</p>
-                  <p>Launch a marketing campaign to promote the meme coin</p>
+                  <p>Launch a meme coin-based NFT marketplace.</p>
+                  <p>List the meme coin on more cryptocurrency exchanges.</p>
                 </div>
               </div>
 
               <div className="col-md-6 position-relative">
                 <img src={Road4} alt="road" className="road-img-2" />
                 <div className="road-content content2">
-                  <h1>Q2 2023</h1>
+                  <h1>Q1 2024</h1>
                   <p>
-                    Launch the meme coin on a major cryptocurrency exchange.
+                  Launch a meme coin-based charity.
                   </p>
-                  <p>Create a strong community around the meme coin.</p>
-                  <p>Launch a marketing campaign to promote the meme coin</p>
+                  <p>Launch a meme coin-based educational program.</p>
+                  <p>Continue to grow the meme coin community.</p>
                 </div>
               </div>
 
               <div className="col-md-6 position-relative">
                 <img src={Road5} alt="road" className="road-img-2" />
                 <div className="road-content content2">
-                  <h1>Q2 2023</h1>
+                  <h1>Q2 2024</h1>
                   <p>
-                    Launch the meme coin on a major cryptocurrency exchange.
+                  Launch on exchange.
                   </p>
-                  <p>Create a strong community around the meme coin.</p>
-                  <p>Launch a marketing campaign to promote the meme coin</p>
+                  <p>Launch Meme wallet.</p>
+                 
                 </div>
               </div>
             </div>
