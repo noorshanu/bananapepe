@@ -25,3 +25,15 @@
     margin: 0 1rem;
 }
 
+
+
+@media (max-width:768px) {
+    .partner-head img{
+        margin-top: -20px;
+        z-index: -8;
+        position: absolute;
+        width: 34.5%;
+        left: 32.9%;
+    }
+    
+}

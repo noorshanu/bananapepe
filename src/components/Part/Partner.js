@@ -21,7 +21,7 @@ function Partner() {
     <section className='partner'>
       <div className='container text-center'>
         <div className='partner-head text-center'>
-          <h1>Partners and Backers</h1>
+          <h1>Partners </h1>
           <img src={Line} alt=''/>
 
         </div>
