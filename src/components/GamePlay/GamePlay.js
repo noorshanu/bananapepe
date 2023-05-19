@@ -58,7 +58,7 @@ function GamePlay() {
                 <img src={Skull} alt="tv" style={{ height: "54px" }} />
               </div>
               <div className="game-box-title text-center">
-                <h2>Attract Apes</h2>
+                <h2>Dex Build</h2>
               </div>
               <div className="game-box-para">
                 <p>

@@ -122,7 +122,7 @@ font-size: 20px;
         left: 13%;
     }
     .game-box {
-        margin: 8%;
+        margin: 12%;
     }
     .game-box-img {
         
@@ -130,6 +130,7 @@ font-size: 20px;
         padding: 4%;
         margin-top: -5%;
         margin-left: 16.4%;
+        left: 15%;
     }
 
     .game-box-title h2{
