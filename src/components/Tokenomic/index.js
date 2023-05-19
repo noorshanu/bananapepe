@@ -6,7 +6,7 @@ import Tokoimg2 from '../../images/token-mob.png'
 
 function Tokonomic() {
   return (
-    <section className='token'>
+    <section className='token' id='token'>
       <div className='container'>
         <div className='head-toko'>
         <h1>TOKENOMICS</h1>

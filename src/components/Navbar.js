@@ -13,7 +13,10 @@ function Navbar() {
       <nav className="main-nav container">
         {/* 1st logo part  */}
         <div className="logo">
+          <a href="/">
+
           <img src={Logo} alt="logo" className="logo-nav"/>
+          </a>
           
         </div>
 
@@ -24,13 +27,13 @@ function Navbar() {
           }>
           <ul>
             <li>
-              <a href="/">GAMEPLAY</a>
+              <a href="#game">GAMEPLAY</a>
             </li>
             <li>
               <a href="#token">TOKENOMICS</a>
             </li>
             <li>
-              <a href="/service">WHITE PAPER</a>
+              <a href="images/whitepaper.pdf">WHITE PAPER</a>
             </li>
          
 

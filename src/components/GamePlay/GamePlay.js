@@ -8,7 +8,7 @@ import Lets from "../../images/button.png";
 import "./Game.css";
 function GamePlay() {
   return (
-    <section className="game-play">
+    <section className="game-play" id="game">
       <div className="container">
         <div className="head-game text-center">
           <h1>GAMEPLAY</h1>
