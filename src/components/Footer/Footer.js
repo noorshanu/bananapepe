@@ -60,8 +60,8 @@ function Footer() {
               </div>
               <div className='footer-social d-flex justify-content-evenly'>
                 <a href='/'><img src={Insta} alt=''/></a>
-                <a href='/' style={{fontSize:"26px"}}><FaTelegram/></a>
-                <a href='/'><img src={Tweet} alt=''/></a>
+                <a href='https://t.me/BananaPepeOfficial' style={{fontSize:"26px"}}><FaTelegram/></a>
+                <a href='https://twitter.com/BananaPepeOfficial'><img src={Tweet} alt=''/></a>
                 <a href='/'><img src={Discord} alt=''/></a>
                 <a href='/'><img src={Git} alt=''/></a>
                 <a href='/'><img src={Youtube} alt=''/></a>
@@ -74,17 +74,17 @@ function Footer() {
         </div>
 <div className='d-flex justify-content-evenly fs-14 footer-con'>
   <p>
-  Business Inquiries - business@bananacoin.com
+  Business Inquiries - support@BananaPepe.io
   </p>
 <p>
-Support - support@bananacoin.com
+Support - support@BananaPepe.io
 </p>
 </div>
       </div>
       </div>
       <div className='container'>
         <div className='text-center copyright '>
-          <span>© 2022 - All rights reserved. Banana Coin Inc.</span>
+          <span>© 2022 - All rights reserved. BananaPepe.io</span>
         </div>
 
       </div>

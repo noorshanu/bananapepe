@@ -19,8 +19,14 @@ function ConnectSection() {
                     
                     <div className='social-connect'>
                         <ul className='d-flex'>
-                            <li><FaTwitter/></li>
-                            <li><FaTelegram/></li>
+                            <li>
+                                <a href='https://twitter.com/BananaPepeOfficial' target='_blank' rel="noreferrer" >
+                                <FaTwitter/>
+                                </a>
+                               </li>
+                            <li><a href='https://t.me/BananaPepeOfficial' target='_blank' rel="noreferrer">
+                            <FaTelegram/>
+                                </a></li>
                             <li><FaDiscord/></li>
                             <li><FaGithub/></li>
                             <li><FaYoutube/></li>
