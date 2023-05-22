@@ -20,7 +20,7 @@ function ConnectSection() {
                     <div className='social-connect'>
                         <ul className='d-flex'>
                             <li>
-                                <a href='https://twitter.com/BananaPepeOfficial' target='_blank' rel="noreferrer" >
+                                <a href='https://twitter.com/BapepeOfficial' target='_blank' rel="noreferrer" >
                                 <FaTwitter/>
                                 </a>
                                </li>
