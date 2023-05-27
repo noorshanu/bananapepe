@@ -25,7 +25,7 @@ function Roadmap() {
                 <div className="road-content">
                   <h1>Q2 2023</h1>
                   <p>
-                    Launch the meme coin on a major cryptocurrency exchange.
+                  Launch the meme coin on a major Dex launch.
                   </p>
                   <p>Create a strong community around the meme coin.</p>
                   <p>Launch a marketing campaign to promote the meme coin</p>
@@ -38,9 +38,9 @@ function Roadmap() {
                   <p>
                    Partner with businesses to accept the memecoin as payment.
                   </p>
-                  <p>Launch a decentralized application (dApp) that uses the meme coin.</p>
+                  <p>Launch a DAPP that uses the meme coin.</p>
                 
-                  <p>Launch a staking program that rewards users for holding the meme coin.</p>
+                  <p>Launch a staking program that rewards users for holding the memecoin.</p>
                 </div>
               </div>
 
