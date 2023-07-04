@@ -94,7 +94,7 @@ function Roadmap() {
           </div>
         </div>
 
-<img src={RoadEle} alt="" className="road-ele"/>
+{/* <img src={RoadEle} alt="" className="road-ele"/> */}
 <img src={RoadEle2} alt="" className="road-ele2"/>
 
         <div className="first-b">
