@@ -6,7 +6,7 @@
 }
 .Roadmap {
   padding-top: 20px;
-
+overflow: hidden;
   padding-bottom: 100px;
   z-index: 50;
   position: relative;
