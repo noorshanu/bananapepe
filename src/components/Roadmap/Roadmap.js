@@ -33,14 +33,12 @@ function Roadmap() {
           </div>
           <div className="road-d-box">
             <div className="road_details" data-aos="fade-up-right"  >
+              <h2>Q2 2023</h2>
               <ul>
-                <li>Creation of concept</li>
-                <li>Creation of Website & Tokenomics</li>
-                <li>Community Creation</li>
-                <li>Launch of Image Generative TG Bot</li>
-                <li>launch of ERC 20 Token</li>
-                <li>Ecosystem Showcase</li>
-                <li>Community Contests & Hype Creation</li>
+                <li>Launch the meme coin on <br/> a major cryptocurrency exchange.</li>
+                <li>Create a strong community  <br/>around the meme coin.</li>
+                <li>Launch a marketing campaign <br/>to promote the meme coin.</li>
+              
               </ul>
             </div>
             <img src={LightImg} alt="" className='light-icon3'/>
@@ -50,14 +48,12 @@ function Roadmap() {
         <div className="first-b">
           <div className="road-d-box">
             <div className="road_details2"  data-aos="fade-up-left"  >
+              <h2 className="" style={{textAlign:'left'}}>Q3 2023</h2>
               <ul>
-                <li>Creation of concept</li>
-                <li>Creation of Website & Tokenomics</li>
-                <li>Community Creation</li>
-                <li>Launch of Image Generative TG Bot</li>
-                <li>launch of ERC 20 Token</li>
-                <li>Ecosystem Showcase</li>
-                <li>Community Contests & Hype Creation</li>
+                <li>Partner with businesses to <br/> accept the meme coin as payment.</li>
+                <li>Launch a decentralized application<br/> (dApp) that uses the meme coin.</li>
+                <li>Launch a staking program that rewards <br/> users for holding the meme coin.</li>
+           
               </ul>
               <img src={Roadr} alt="" className="roadr"/>
             </div>
@@ -78,14 +74,13 @@ function Roadmap() {
           </div>
           <div className="road-d-box">
             <div className="road_details" data-aos="fade-up-right"  >
+             <h2>Q4 2023</h2>
               <ul>
-                <li>Creation of concept</li>
-                <li>Creation of Website & Tokenomics</li>
-                <li>Community Creation</li>
-                <li>Launch of Image Generative TG Bot</li>
-                <li>launch of ERC 20 Token</li>
-                <li>Ecosystem Showcase</li>
-                <li>Community Contests & Hype Creation</li>
+                <li>Launch a meme coin-based game.</li>
+                <li>Launch a meme coin-based NFT marketplace.</li>
+               
+                <li>List the meme coin on more <br/> cryptocurrency exchanges.</li>
+               
               </ul>
               
               <img src={Roadl} alt="" className="roadl"/>
@@ -100,14 +95,14 @@ function Roadmap() {
         <div className="first-b">
           <div className="road-d-box">
             <div className="road_details2" data-aos="fade-up-left"  >
+              <h2 style={{textAlign:'left'}}>Q1 2024 - Q2 2024</h2>
               <ul>
-                <li>Creation of concept</li>
-                <li>Creation of Website & Tokenomics</li>
-                <li>Community Creation</li>
-                <li>Launch of Image Generative TG Bot</li>
-                <li>launch of ERC 20 Token</li>
-                <li>Ecosystem Showcase</li>
-                <li>Community Contests & Hype Creation</li>
+                <li>Launch a meme coin-based charity.</li>
+                <li>Launch a meme coin-based <br/> educational program.</li>
+                <li>Continue to grow the meme <br/> coin community.</li>
+                <li>Launch on exchange</li>
+                <li>Launch Meme wallet</li>
+              
               </ul>
 
             </div>
