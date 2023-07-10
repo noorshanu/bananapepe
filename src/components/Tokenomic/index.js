@@ -13,8 +13,8 @@ function Tokonomic() {
         </div>
       
     <div className='text-center pt-8 pb-8 m-auto'>
-    <img src={Tokoimg} alt='' className='toko-img-1' />
-    <img src={Tokoimg2} alt='' className='toko-img-2' />
+    <img src='images/token.png' alt='' className='toko-img-1' />
+    {/* <img src={Tokoimg2} alt='' className='toko-img-2' /> */}
     </div>
 
     
