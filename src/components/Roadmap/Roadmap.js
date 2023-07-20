@@ -1,9 +1,7 @@
 import React from "react";
 import "./Roadmap.css";
 import LightImg from '../../Assets/elements/light-line.svg'
-import Roadr from '../../Assets/elements/roadr.png'
-import Roadl from '../../Assets/elements/roadl.png'
-import RoadEle from '../../Assets/elements/road-ele.png'
+
 import RoadEle2 from '../../Assets/elements/road-ele2.png'
 
 import RoadEle4 from '../../Assets/elements/road-ele4.png'
@@ -55,7 +53,7 @@ function Roadmap() {
                 <li>Launch a staking program that rewards <br/> users for holding the meme coin.</li>
            
               </ul>
-              <img src={Roadr} alt="" className="roadr"/>
+              {/* <img src={Roadr} alt="" className="roadr"/> */}
             </div>
             <img src={LightImg} alt="" className='light-icon4'/>
           </div>
@@ -83,7 +81,7 @@ function Roadmap() {
                
               </ul>
               
-              <img src={Roadl} alt="" className="roadl"/>
+              {/* <img src={Roadl} alt="" className="roadl"/> */}
             </div>
             <img src={LightImg} alt="" className='light-icon3'/>
           </div>

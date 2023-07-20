@@ -21,7 +21,7 @@ function Hero() {
               </p>
               <div>
                 <span className="hero-top-s1">Powered by </span> <br />
-                <span className="hero-top-s2">BNB Chain</span>
+                <span className="hero-top-s2">ETH Chain</span>
               </div>
             </div>
 
