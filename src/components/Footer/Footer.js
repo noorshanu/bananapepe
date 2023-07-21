@@ -84,7 +84,7 @@ Support - support@BananaPepe.io
       </div>
       <div className='container'>
         <div className='text-center copyright '>
-          <span>© 2022 - All rights reserved. BananaPepe.io</span>
+          <span>© 2023 - All rights reserved. BananaPepe.io</span>
         </div>
 
       </div>
