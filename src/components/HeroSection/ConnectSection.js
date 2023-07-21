@@ -18,7 +18,7 @@ function ConnectSection() {
                     <div className='connect-head'><h2>Connect With The Community!</h2></div>
                     
                     <div className='social-connect'>
-                        <ul className='d-flex'>
+                        <ul className='d-flex m-auto'>
                             <li>
                                 <a href='https://twitter.com/BapepeOfficial' target='_blank' rel="noreferrer" >
                                 <FaTwitter/>
@@ -27,10 +27,10 @@ function ConnectSection() {
                             <li><a href='https://t.me/BananaPepeOfficial' target='_blank' rel="noreferrer">
                             <FaTelegram/>
                                 </a></li>
-                            <li><FaDiscord/></li>
+                            {/* <li><FaDiscord/></li>
                             <li><FaGithub/></li>
                             <li><FaYoutube/></li>
-                            <li><FaInstagram/></li>
+                            <li><FaInstagram/></li> */}
                         </ul>
 
                     </div>

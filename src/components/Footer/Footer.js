@@ -58,13 +58,13 @@ function Footer() {
                 <button>Subscribe</button>
 
               </div>
-              <div className='footer-social d-flex justify-content-evenly'>
-                <a href='/'><img src={Insta} alt=''/></a>
+              <div className='footer-social d-flex justify-content-center gap-2'>
+                {/* <a href='/'><img src={Insta} alt=''/></a> */}
                 <a href='https://t.me/BananaPepeOfficial' style={{fontSize:"26px"}}><FaTelegram/></a>
                 <a href='https://twitter.com/BapepeOfficial'><img src={Tweet} alt=''/></a>
-                <a href='/'><img src={Discord} alt=''/></a>
+                {/* <a href='/'><img src={Discord} alt=''/></a>
                 <a href='/'><img src={Git} alt=''/></a>
-                <a href='/'><img src={Youtube} alt=''/></a>
+                <a href='/'><img src={Youtube} alt=''/></a> */}
 
               </div>
             </div>
