@@ -36,7 +36,7 @@ function Hero() {
               <p className="hero-para">
                 By achieving a market capitalization of over $1 billion in
                 record time and being listed on Binance with Floki, Peperevived
-                memes in 2023. The next step is for Pepeki, the offspring of
+                memes in 2023. The next step is for BAPEPE, the offspring of
                 Pepe and Floki, to break both records and become the most
                 bullish combination.
               </p>
