@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Navbar.css";
-import { FaApple,} from "react-icons/fa";
-import {IoLogoGooglePlaystore} from 'react-icons/io5'
+// import { FaApple,} from "react-icons/fa";
+// import {IoLogoGooglePlaystore} from 'react-icons/io5'
 import { GiHamburgerMenu } from "react-icons/gi";
 import Logo from '../images/logo.png'
 
@@ -25,45 +25,52 @@ function Navbar() {
           className={
             showMediaIcons ? "menu-link mobile-menu-link" : "menu-link"
           }>
-          <ul>
-            <li>
-              <a href="#game">GAMEPLAY</a>
-            </li>
-            <li>
-              <a href="#token">TOKENOMICS</a>
-            </li>
-            <li>
-              <a href="images/whitepaper.pdf">WHITE PAPER</a>
+            <ul className="">
+          <li>
+             <a href="/" className="btn-btn-nav"> DexView</a>
             </li>
          
+         <li>
+          <a href="/">
+           UNISWAP
 
+          </a>
+         </li>
+
+         <li>
+          <a href="/">
+            DEXTOOLs
+
+          </a>
+         </li>
            
+          
           </ul>
         </div>
 
         {/* 3rd social media links */}
         <div className="social-media">
-          <ul className="social-media-desktop">
+          {/* <ul className="social-media-desktop">
           <li>
-             <a href="/" className="btn-btn-nav">Download</a>
+             <a href="/" className="btn-btn-nav"> DexView</a>
             </li>
-          <li>
-              <a
-                href="https://www.youtube.com/channel"
-                target="_thapa">
-                <FaApple className="facebook" />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.instagram.com/"
-                target="_thapa">
-                <IoLogoGooglePlaystore className="instagram" />
-              </a>
-            </li>
+         
+         <li>
+          <a href="/">
+           UNISWAP
+
+          </a>
+         </li>
+
+         <li>
+          <a href="/">
+            DEXTOOLs
+
+          </a>
+         </li>
            
           
-          </ul>
+          </ul> */}
 
           {/* hamburget menu start  */}
           <div className="hamburger-menu">

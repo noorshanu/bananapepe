@@ -26,7 +26,7 @@ function Footer() {
           <div className='col-md-3 col-6'>
             <div className='footer-nav'>
               <a href='/'><p>How to Play</p></a>
-              <a href='/'><p>Whitepaper</p></a>
+              <a href="images/whitepaper.pdf">WHITE PAPER</a>
               <a href='/'><p>Features</p></a>
               <a href='/'><p>Blog</p></a>
               <a href='/'><p>Pitchdeck</p></a>
