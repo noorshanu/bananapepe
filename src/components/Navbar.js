@@ -27,19 +27,20 @@ function Navbar() {
           }>
             <ul className="">
           <li>
-             <a href="/" className="btn-btn-nav"> DexView</a>
+             <a href="/" className="btn-btn-nav">
+              <img src="images/img4.png" alt="" height='25'/> </a>
             </li>
          
          <li>
           <a href="/">
-           UNISWAP
+          <img src="images/uni.png" alt="" height='35'/>  
 
           </a>
          </li>
 
          <li>
-          <a href="/">
-            DEXTOOLs
+          <a href="/" className="">
+          <img src="images/dex.svg" alt="" height='25'/>  
 
           </a>
          </li>

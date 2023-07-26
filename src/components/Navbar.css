@@ -91,12 +91,18 @@ a:hover {
   color: rgb(255, 255, 255);
   transition: 0.5s;
   font-size: 50%;
+  background: #efc32f;
+  padding: 0.2rem 1rem;
+  border-radius: 14px;
 }
 .menu-link ul li:hover > a {
   transform-origin: left;
   color: rgb(233, 222, 22);
   text-decoration: wavy;
   transition: 0.5s;
+}
+.item-center{
+  align-items: center;
 }
 
 .social-media ul li {

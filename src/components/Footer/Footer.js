@@ -1,10 +1,8 @@
 import React from 'react'
 import Logo from '../../images/logo.png'
-import Insta from '../../images/icon/insta.svg'
+
 import Tweet from '../../images/icon/tweet.svg'
-import Git from '../../images/icon/github.svg'
-import Discord from '../../images//icon/discord.svg'
-import Youtube from '../../images/icon/youtube.svg'
+
 import {
   FaTelegram,
  
@@ -18,30 +16,39 @@ function Footer() {
 
      
       <div className='container'>
-        <div className='row'>
+        <div className='row item-center'>
           <div className='col-md-3 col-6'>
             <img src={Logo} alt='' className='footer-logo'/>
           </div>
 
           <div className='col-md-3 col-6'>
             <div className='footer-nav'>
-              <a href='/'><p>How to Play</p></a>
+              {/* <a href='/'><p>How to Play</p></a>
               <a href="images/whitepaper.pdf">WHITE PAPER</a>
               <a href='/'><p>Features</p></a>
               <a href='/'><p>Blog</p></a>
               <a href='/'><p>Pitchdeck</p></a>
-              <a href='/'><p>Partners</p></a>
+              <a href='/'><p>Partners</p></a> */}
+              <div className='d-flex justify-content-evenly fs-14 footer-con'>
+  <p>
+  Business Inquiries - support@BananaPepe.io
+  </p>
+
+</div>
             </div>
           </div>
 
           <div className='col-md-3 col-6'>
           <div className='footer-nav'>
-              <a href='/'><p>About Us</p></a>
+          <p>
+Support - support@BananaPepe.io
+</p>
+              {/* <a href='/'><p>About Us</p></a>
               <a href='/'><p>Disclaimer</p></a>
               <a href='/'><p>FAQ</p></a>
               <a href='/'><p>Cookies Policy</p></a>
               <a href='/'><p>Privacy Policy</p></a>
-              <a href='/'><p>Terms Of Service</p></a>
+              <a href='/'><p>Terms Of Service</p></a> */}
             </div>
 
           </div>
@@ -72,14 +79,7 @@ function Footer() {
           </div>
 
         </div>
-<div className='d-flex justify-content-evenly fs-14 footer-con'>
-  <p>
-  Business Inquiries - support@BananaPepe.io
-  </p>
-<p>
-Support - support@BananaPepe.io
-</p>
-</div>
+
       </div>
       </div>
       <div className='container'>
