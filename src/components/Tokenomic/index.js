@@ -1,8 +1,7 @@
 import React from 'react'
 import './Token.css'
 
-import Tokoimg from '../../images/tokeno.png'
-import Tokoimg2 from '../../images/token-mob.png'
+
 
 function Tokonomic() {
   return (

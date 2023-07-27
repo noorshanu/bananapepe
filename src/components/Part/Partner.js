@@ -20,9 +20,17 @@ function Partner() {
   return (
     <section className='partner'>
       <div className='text-center'>
-        <a href='https://etherscan.io/address/0x8736513Feab0A09216f8cfa00682F99958258BEA' target='_blank' rel="noreferrer" >
+      <div className="head-game text-center">
+          <h1>Contract Address</h1>
+          <a href='https://etherscan.io/address/0x8736513Feab0A09216f8cfa00682F99958258BEA' target='_blank' rel="noreferrer" className='contract' >
         0x8736513Feab0A09216f8cfa00682F99958258BEA
         </a>
+        </div>
+    
+       
+        <br/>
+        <br/>
+        <br/>
 
       </div>
       <div className='container text-center'>

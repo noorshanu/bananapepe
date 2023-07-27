@@ -25,7 +25,10 @@
     margin: 0 1rem;
 }
 
-
+.contract{
+    font-size: 32px;
+    padding-bottom: 32px;
+}
 
 @media (max-width:768px) {
     .partner-head img{
