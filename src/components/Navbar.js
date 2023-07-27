@@ -27,19 +27,19 @@ function Navbar() {
           }>
             <ul className="">
           <li>
-             <a href="/" className="btn-btn-nav">
+             <a href="https://www.dexview.com/eth/0x8736513Feab0A09216f8cfa00682F99958258BEA" rel="noreferrer" target="_blank" className="btn-btn-nav">
               <img src="images/img4.png" alt="" height='25'/> </a>
             </li>
          
          <li>
-          <a href="/">
+          <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x8736513Feab0A09216f8cfa00682F99958258BEA&chain=mainnet" rel="noreferrer" target="_blank">
           <img src="images/uni.png" alt="" height='35'/>  
 
           </a>
          </li>
 
          <li>
-          <a href="/" className="">
+          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x82610816624d1e18f5a7d533282d9d7cf0e92b63" rel="noreferrer" target="_blank" className="">
           <img src="images/dex.svg" alt="" height='25'/>  
 
           </a>
