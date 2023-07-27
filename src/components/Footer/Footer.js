@@ -24,11 +24,12 @@ function Footer() {
           <div className='col-md-3 col-6'>
             <div className='footer-nav'>
               {/* <a href='/'><p>How to Play</p></a>
-              <a href="images/whitepaper.pdf">WHITE PAPER</a>
+              
               <a href='/'><p>Features</p></a>
               <a href='/'><p>Blog</p></a>
               <a href='/'><p>Pitchdeck</p></a>
               <a href='/'><p>Partners</p></a> */}
+              <a href="images/whitepaper.pdf">WHITE PAPER</a>
               <div className='d-flex justify-content-evenly fs-14 footer-con'>
   <p>
   Business Inquiries - support@BananaPepe.io
