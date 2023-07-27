@@ -44,6 +44,9 @@ function Navbar() {
 
           </a>
          </li>
+         <li>
+         <a href="images/whitepaper.pdf" rel="noreferrer" target="_blank">WHITE PAPER</a>
+         </li>
            
           
           </ul>
